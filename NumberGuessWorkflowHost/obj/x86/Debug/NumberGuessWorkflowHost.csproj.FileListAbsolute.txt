@@ -1,0 +1,8 @@
+c:\users\amoeba\documents\visual studio 2013\Projects\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.csprojResolveAssemblyReference.cache
+c:\users\amoeba\documents\visual studio 2013\Projects\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.exe.config
+c:\users\amoeba\documents\visual studio 2013\Projects\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.exe
+c:\users\amoeba\documents\visual studio 2013\Projects\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.pdb
+c:\users\amoeba\documents\visual studio 2013\Projects\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.exe
+c:\users\amoeba\documents\visual studio 2013\Projects\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.pdb
+c:\users\amoeba\documents\visual studio 2013\Projects\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowActivities.dll
+c:\users\amoeba\documents\visual studio 2013\Projects\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowActivities.pdb
